@@ -20,7 +20,7 @@ Acompañemiento del BOT: https://chatgpt.com/g/g-67e4731b422481919463f4b52818e9c
 | LUA VELASCO JORGE ALEXIS | Sensor de inclinación | Sensor de humedad relativa (SHT31) |----Poner aqui--|
 | LUNA GOMEZ JESUS URIEL | Sensor magnético (Reed Switch) | Sensor de peso (HX711 + celda) |---Poner aqui----|
 | MOLINA FABELA EDGAR FABIAN | Sensor UV (VEML6075) | Sensor de nivel de agua (analógico) |-----Poner aqui---|
-| MORA LOPEZ ERIC SAID | Sensor de color (TCS34725) | Sensor de gas propano (MQ-6) |------Poner aqui---|
+| MORA LOPEZ ERIC SAID | Sensor de color (TCS34725) | Sensor de gas propano (MQ-6) |https://gist.github.com/SaidM2310/f9e1609f0b8d9ea166fc784da728a6b6|
 | OCHOA MORAN VICTOR ALEJANDRO | Sensor de calidad de aire (BME680) | Sensor PIR dual zona |---Poner aqui----|
 | OROZCO HERNANDEZ BRANDON | Sensor de movimiento con radar (RCWL-0516) | Sensor de lluvia (YL-83) |---Poner aqui------|
 | ORTEGA MEDINA ABNER NAHUM | Sensor de presencia IR | Sensor de humedad + temp (SHT20) |----Poner aqui-----|
